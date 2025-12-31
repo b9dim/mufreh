@@ -1,4 +1,4 @@
-import { ArrowRight, Package, MapPin, Truck, Calendar, CheckCircle2, Clock, ArrowLeft, FileText, CreditCard, User, Phone, Building2, Hash } from "lucide-react"
+import { Package, MapPin, Truck, Calendar, CheckCircle2, Clock, ArrowLeft, FileText, CreditCard, User, Phone, Building2, Hash } from "lucide-react"
 import { Card, CardContent, CardDescription, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { motion } from "framer-motion"
